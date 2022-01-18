@@ -164,13 +164,65 @@ foretime `…`
               you.
 
         * [`2 Peter 1:20`](https://biblia.com/books/esv/2Pe1.20)
-          knowing this first of all, that no prophecy of Scripture comes from _someone’s own
-          interpretation._ `21` For know prophecy was ever produced by the _will of man_, but men
+          knowing this first of all, that _no_ prophecy of Scripture comes from someone’s _own
+          interpretation._ `21` For no prophecy was ever produced by the _will of man_, but men
           spoke _from God_ as they were _carried along_ by the Holy Spirit.
 
     * `…` and is profitable for _doctrine_ { or _teaching_ }, for _reproof_ { or _refutation_ },
       for _correction,_ or _instruction in righteousness:_ `17` That the man of God may be perfect,
       thoroughly furnished unto _all good works._
+
+    * [`2 Peter 1:19`](https://biblia.com/books/kjv1900/2Pe1.19) `JW`
+      We have also a more sure word of prophecy; whereunto ye do well that ye _take heed,_ as unto a
+      light that shineth in a dark place, until the day dawn, and the day star _arise in your
+      hearts:_
+
+        * [`Psalm 119:7`](https://biblia.com/books/kjv1900/Ps119.7)
+          I will praise thee with uprightness of heart, when I shall have learned thy righteous
+          judgments { or rules of conduct }.
+
+        * [`Psalm 119:105`](https://biblia.com/books/kjv1900/Ps119.105) `JW`
+          Thy word is a _lamp_ unto my feet, and a _light_ unto my path { it shows us how to follow
+          the _right_ and avoid the _wrong_ way }.
+
+            * [`Isaiah 51:4`](https://biblia.com/books/kjv1900/Is51.4) `JW`
+              Hearken unto me, my people; And _give ear_ unto me, O my nation: `…`
+
+                * [`Deuteronomy 7:6`](https://biblia.com/books/kjv1900/Dt7.6) `JW`
+                  For thou art an _holy people_ unto the Lord thy God { set apart to the service of
+                  God, or chosen to execute the important purposes of His providence }: the Lord thy
+                  God hath chosen thee to be a _special people_ unto himself, above all people that
+                  are upon the face of the earth.
+
+            * `…` For a law shall proceed from me, And I will make { or establish firmly } my
+              judgment to rest for a light of the people.
+
+                * [`Proverbs 6:23`](https://biblia.com/books/kjv1900/Pr6.23) `JW`
+                  For the commandment is a _lamp;_ and the law is _light;_ And reproofs { or
+                  convictions of error } of instruction are the way of _life:_
+
+        * [`John 1:9`](https://biblia.com/books/kjv1900/Jn1.9) `JW`
+          That was the _true Light,_ which lighteth every man that cometh into the world.
+
+            * [`Luke 2:30`](https://biblia.com/books/kjv1900/Lk2.30) `JW`
+              For mine eyes have seen thy salvation,
+
+            * [`John 3:19`](https://biblia.com/books/kjv1900/Jn3.19)
+              And this is the _condemnation,_ that light is come into the world, and men loved
+              _darkness_ rather than light, because their deeds were _evil._
+
+                * [`John 12:43`](https://biblia.com/books/kjv1900/Jn12.43)
+                  For they loved the praise of men more than the praise of God.
+
+                * [`1 John 2:9`](https://biblia.com/books/kjv1900/1Jn2.9) `JW`
+                  He that saith he is in the light, and _hateth his brother,_ is in _darkness_ even
+                  until now. { Where love is not, there hatred is; for the heart cannot remain a
+                  void. }
+
+                * [`Ephesians 4:31`](https://biblia.com/books/kjv1900/Eph4.31) `JW`
+                  Let all bitterness { both of spirit and of speech }, and wrath, and anger {or
+                  lasting resentment }, and clamour { or slander, insinuation }, and evil speaking,
+                  be put away from you, with all malice:
 
 `…` that we through _patience_ `…`
 
@@ -179,6 +231,8 @@ foretime `…`
 `…` and comfort of the scriptures might have _hope_ { the motives that prompted them, the spirit in
 which they were endured, and the general principle involved in His whole work—self-sacrifice for the
 good of others—furnish our _most perfect and beautiful model_ }.
+
+* [`TODO`](#)
 
 ## trivia
 
